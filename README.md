@@ -13,7 +13,7 @@ Installation was verified using:
 nmap --version
 
 ## Step 2: Find Local IP Range
-Command used
+Command used:
 ipconfig
 
 ## Step 3: Perform Nmap Scan
